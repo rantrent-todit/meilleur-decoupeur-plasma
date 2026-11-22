@@ -1,12 +1,12 @@
 ---
-titre: "Stamos Germany S-PLASMA 60U Découpeur plasma 65 A Facteur de marche 60% 400 V Amorçage HF IGBT Découpeur plasma professionnel Plasma découpeur"
-titre_h1: "Avis Stamos Germany S-PLASMA 60U Découpeur plasma 65 A Facteur de marche 60% 400 V Amorçage HF IGBT Découpeur plasma professionnel Plasma découpeur"
+titre: "Stamos Germany S-PLASMA 60U (65A, 400V)"
+titre_h1: "Avis Stamos Germany S-PLASMA 60U (65A, 400V)"
 description_courte: "Découpeur plasma professionnel triphasé 400 V Stamos S-PLASMA 60U de 65 A avec amorçage HF et technologie IGBT pour coupes nettes jusqu'à 22 mm."
 description_longue: "Le Stamos Germany S-PLASMA 60U s'adresse aux professionnels et ateliers de métallerie recherchant un poste de découpe plasma triphasé puissant et endurant. Grâce à son courant réglable de 20 à 65 ampères, son facteur de marche de 60 % à pleine puissance et son amorçage haute fréquence sans contact, cet appareil garantit des découpes précises et régulières sur acier, inox, cuivre et aluminium."
 categories: ["forte-epaisseur-triphases-400v"]
 image_url: "https://m.media-amazon.com/images/I/61kDeD4rkTL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0BXXKNMH9/?tag=amazonwp0b-21"
-meta_title: "Avis Stamos Germany S-PLASMA 60U Découpeur plasma 65 A Facteur de marche 60% 400 V Amorçage HF IGBT Découpeur plasma professionnel Plasma découpeur"
+meta_title: "Avis Stamos Germany S-PLASMA 60U (65A, 400V)"
 meta_description: "Avis et test vérifié sur le Stamos Germany S-PLASMA 60U triphasé 400 V. Performances de coupe à 65 A, amorçage HF, atouts et verdict d'expert."
 avis_clients:
   - auteur: "Alexandre M."

@@ -1,0 +1,639 @@
+{
+  "folderName": "meilleur-decoupeur-plasma",
+  "siteName": "Meilleur Découpeur Plasma",
+  "domain": "https://meilleur-decoupeur-plasma.fr",
+  "lastUpdated": "2026-11-22T21:50:57.059Z",
+  "summary": {
+    "total": 31,
+    "relevantCount": 31,
+    "irrelevantCount": 0,
+    "longTitlesCount": 0
+  },
+  "products": [
+    {
+      "file": "andeli-plasma-55a-compresseur-integre-230v-igbt-2t-4t-led-coupe-20mm.md",
+      "slug": "andeli-plasma-55a-compresseur-integre-230v-igbt-2t-4t-led-coupe-20mm",
+      "title": "ANDELI Plasma 55A Compresseur Intégré",
+      "titleLength": 37,
+      "imageUrl": "https://m.media-amazon.com/images/I/81IxaR+LHLL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0H82X9GVN/?tag=amazonwp0b-21",
+      "shortDesc": "Découpeur plasma ANDELI 55A autonome avec compresseur intégré et arc pilote sans contact. Coupe nette jusqu'à 20 mm sur tous métaux conducteurs.",
+      "categories": [
+        "professionnels-haute-capacite"
+      ],
+      "words": 2575,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine complète de découpage plasma avec compresseur intégré.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "ANDELI Plasma 55A Compresseur Intégré",
+      "titleReason": "Suppression du bourrage de mots-clés techniques pour un titre clair et vendeur."
+    },
+    {
+      "file": "arccaptain-cut-50.md",
+      "slug": "arccaptain-cut-50",
+      "title": "ARCCAPTAIN CUT 50 (50A)",
+      "titleLength": 23,
+      "imageUrl": "https://m.media-amazon.com/images/I/71dHsGbw-fL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0B5N7K2DJ/?tag=amazonwp0b-21",
+      "shortDesc": "Découvrez notre test vérifié du ARCCAPTAIN CUT 50 (50A) : découpeur plasma IGBT puissant, torche HF, affichage LED et analyse complète.",
+      "categories": [
+        "inverter-230v-atelier",
+        "portables-compacts",
+        "entree-de-gamme-bricolage"
+      ],
+      "words": 2465,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste découpeur plasma complet 50A pour atelier et bricolage.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "ARCCAPTAIN CUT 50 (50A)",
+      "titleReason": "Titre d'origine court, clair et parfaitement calibré."
+    },
+    {
+      "file": "coupeur-de-plasma-equipement-de-coupeur-plasma-igbt-cnc-120-amperes-lgk-120-for-.md",
+      "slug": "coupeur-de-plasma-equipement-de-coupeur-plasma-igbt-cnc-120-amperes-lgk-120-for-",
+      "title": "LGK-120 Découpeur Plasma CNC 120A",
+      "titleLength": 33,
+      "imageUrl": "https://m.media-amazon.com/images/I/719QdfXMt8L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0HR4JGK7R/?tag=amazonwp0b-21",
+      "shortDesc": "Test vérifié du découpeur plasma LGK-120 120 ampères pour table CNC et torche droite. Évaluation technique, puissance et qualité de coupe.",
+      "categories": [
+        "professionnels-haute-capacite"
+      ],
+      "words": 2173,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Générateur découpeur plasma complet 120A adapté pour table CNC.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "LGK-120 Découpeur Plasma CNC 120A",
+      "titleReason": "Remplacement d'une traduction brute polluée par un titre direct Marque + Modèle + Capacité."
+    },
+    {
+      "file": "cut60l-pro-60a.md",
+      "slug": "cut60l-pro-60a",
+      "title": "CUT60L PRO Découpeur Plasma 60A",
+      "titleLength": 31,
+      "imageUrl": "https://m.media-amazon.com/images/I/711udJ8WN5L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0G5N31GPW/?tag=amazonwp0b-21",
+      "shortDesc": "Test vérifié du découpeur plasma CUT60L PRO 60A : arc pilote sans contact, modes 2T et 4T, performances sur acier et avis d'expert complet.",
+      "categories": [
+        "inverter-230v-atelier",
+        "arc-pilote-sans-hf",
+        "compatibles-table-cnc"
+      ],
+      "words": 2320,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste à découper plasma complet 60A avec arc pilote.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "CUT60L PRO Découpeur Plasma 60A",
+      "titleReason": "Titre concis, informatif et percutant."
+    },
+    {
+      "file": "decoupeur-plasma-50a-compresseur.md",
+      "slug": "decoupeur-plasma-50a-compresseur",
+      "title": "Découpeur Plasma 50A Compresseur Intégré",
+      "titleLength": 40,
+      "imageUrl": "https://m.media-amazon.com/images/I/71WqfDh2rRL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GSZH6WZW/?tag=amazonwp0b-21",
+      "shortDesc": "Un découpeur plasma 50A tout-en-un avec compresseur intégré. Idéal pour l'atelier sans équipement pneumatique lourd et encombrant.",
+      "categories": [
+        "avec-compresseur-integre",
+        "inverter-230v-atelier"
+      ],
+      "words": 2505,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Équipement complet de découpe plasma avec compresseur intégré.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Découpeur Plasma 50A Compresseur Intégré",
+      "titleReason": "Titre synthétique décrivant précisément l'appareil."
+    },
+    {
+      "file": "feifanke-plasma-75a.md",
+      "slug": "feifanke-plasma-75a",
+      "title": "FEIFANKE Découpeur Plasma 75A",
+      "titleLength": 29,
+      "imageUrl": "https://m.media-amazon.com/images/I/71xKV7zjKiL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DYT37HN8/?tag=amazonwp0b-21",
+      "shortDesc": "Découvrez notre test vérifié du découpeur plasma FEIFANKE 75A : compacité de 4,2 kg, arc pilote sans contact, coupe nette jusqu'à 25 mm et mode 4T.",
+      "categories": [
+        "inverter-230v-atelier",
+        "arc-pilote-sans-hf",
+        "entree-de-gamme-bricolage"
+      ],
+      "words": 2962,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine de découpe plasma portable complète 75A.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "FEIFANKE Découpeur Plasma 75A",
+      "titleReason": "Titre percutant et longueur idéale."
+    },
+    {
+      "file": "gude-gps-e-40-a2.md",
+      "slug": "gude-gps-e-40-a2",
+      "title": "Güde GPS-E 40 A.2 (40A, 12 mm)",
+      "titleLength": 30,
+      "imageUrl": "https://m.media-amazon.com/images/I/71P2gE0M7-L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B08N9WN62H/?tag=amazonwp0b-21",
+      "shortDesc": "Découvrez notre test vérifié du Güde GPS-E 40 A.2 : un découpeur plasma 40A compact capable de couper l'acier jusqu'à 12 mm avec précision.",
+      "categories": [
+        "entree-de-gamme-bricolage",
+        "portables-compacts",
+        "inverter-230v-atelier"
+      ],
+      "words": 2240,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste découpeur plasma complet compact pour atelier.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Güde GPS-E 40 A.2 (40A)",
+      "titleReason": "Formatage standardisé avec marque, modèle et ampérage."
+    },
+    {
+      "file": "gys-easycut-k25.md",
+      "slug": "gys-easycut-k25",
+      "title": "GYS Easycut K25",
+      "titleLength": 15,
+      "imageUrl": "https://m.media-amazon.com/images/I/71lAL9egM7L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B09JGKJZNN/?tag=amazonwp0b-21",
+      "shortDesc": "Découpeur plasma portable 230V avec compresseur intégré, le GYS Easycut K25 assure des découpes précises sur acier jusqu'à 8 mm sans réseau d'air.",
+      "categories": [
+        "avec-compresseur-integre",
+        "inverter-230v-atelier",
+        "portables-compacts"
+      ],
+      "words": 2371,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Découpeur plasma portable complet de marque avec compresseur interne.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "GYS Easycut K25 Compresseur Intégré",
+      "titleReason": "Mise en avant de la caractéristique clé du modèle."
+    },
+    {
+      "file": "haxiaoer-hxc550d.md",
+      "slug": "haxiaoer-hxc550d",
+      "title": "Haxiaoer HXC550D (55A, Arc Pilote)",
+      "titleLength": 34,
+      "imageUrl": "https://m.media-amazon.com/images/I/715G1BtI9FL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FQC3GMN4/?tag=amazonwp0b-21",
+      "shortDesc": "Découvrez notre test vérifié du découpeur plasma Haxiaoer HXC550D 55A à arc pilote : puissance, découpe sur métal peint et rapport qualité-prix.",
+      "categories": [
+        "arc-pilote-sans-hf",
+        "inverter-230v-atelier"
+      ],
+      "words": 2726,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste découpeur plasma complet avec torche à arc pilote.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Haxiaoer HXC550D (55A Arc Pilote)",
+      "titleReason": "Titre technique précis et bien équilibré."
+    },
+    {
+      "file": "hitbox-plasma-arc-pilote-230v.md",
+      "slug": "hitbox-plasma-arc-pilote-230v",
+      "title": "Hitbox Plasma Arc Pilote 230V (15 mm)",
+      "titleLength": 37,
+      "imageUrl": "https://m.media-amazon.com/images/I/713p6mMTm8L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GVFB5TLY/?tag=amazonwp0b-21",
+      "shortDesc": "Découvrez notre test vérifié du découpeur Hitbox Plasma 230V à arc pilote : 15 mm de coupe, technologie IGBT et analyse des performances réelles.",
+      "categories": [
+        "arc-pilote-sans-hf",
+        "inverter-230v-atelier"
+      ],
+      "words": 1817,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine de découpe plasma complète 230V.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Hitbox Plasma Arc Pilote 230V",
+      "titleReason": "Titre clair et épuré de la mention d'épaisseur superflue."
+    },
+    {
+      "file": "lotos-ltp7000-coupe-plasma-a-air-igbt-70-a-coupe-nette-2-2-cm.md",
+      "slug": "lotos-ltp7000-coupe-plasma-a-air-igbt-70-a-coupe-nette-2-2-cm",
+      "title": "Lotos LTP7000 Découpeur Plasma 70A",
+      "titleLength": 34,
+      "imageUrl": "https://m.media-amazon.com/images/I/71-omUqHtsS._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B081J67B32/?tag=amazonwp0b-21",
+      "shortDesc": "Découpeur plasma Lotos LTP7000 de 70 A avec technologie IGBT. Analyse technique, test vérifié de coupe jusqu'à 22 mm et retour d'expérience.",
+      "categories": [
+        "professionnels-haute-capacite"
+      ],
+      "words": 2422,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste plasma haute capacité 70A complet.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Lotos LTP7000 Découpeur Plasma 70A",
+      "titleReason": "Suppression des répétitions verbeuses au profit d'une structure Marque + Modèle + Puissance."
+    },
+    {
+      "file": "parkside-performance-ppsk-40.md",
+      "slug": "parkside-performance-ppsk-40",
+      "title": "Parkside Performance PPSK 40 avec compresseur",
+      "titleLength": 45,
+      "imageUrl": "https://m.media-amazon.com/images/I/61BZW9xoTGL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0BLT63L2Z/?tag=amazonwp0b-21",
+      "shortDesc": "Découvrez notre test complet du découpeur plasma Parkside Performance PPSK 40 avec compresseur intégré : analyse technique et avis d'expert.",
+      "categories": [
+        "avec-compresseur-integre",
+        "entree-de-gamme-bricolage",
+        "portables-compacts"
+      ],
+      "words": 2089,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Appareil complet tout-en-un avec compresseur intégré.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Parkside Performance PPSK 40 Compresseur",
+      "titleReason": "Titre d'origine pertinent, rendu légèrement plus concis."
+    },
+    {
+      "file": "reboot-60a-arc-pilote.md",
+      "slug": "reboot-60a-arc-pilote",
+      "title": "Reboot 60A Arc Pilote Non-Tactile",
+      "titleLength": 33,
+      "imageUrl": "https://m.media-amazon.com/images/I/719GYxEvqnL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FDG7F192/?tag=amazonwp0b-21",
+      "shortDesc": "Découpeur plasma Reboot 60A avec arc pilote non-tactile et double tension 120V/240V. Coupe nette jusqu'à 12,7 mm pour atelier et métallerie.",
+      "categories": [
+        "arc-pilote-sans-hf",
+        "inverter-230v-atelier"
+      ],
+      "words": 2354,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine de découpe plasma complète 60A avec arc pilote non-tactile.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Reboot 60A Arc Pilote Non-Tactile",
+      "titleReason": "Titre déjà concis, clair et vendeur."
+    },
+    {
+      "file": "reboot-plasma-40a.md",
+      "slug": "reboot-plasma-40a",
+      "title": "Reboot Découpeur Plasma 40A",
+      "titleLength": 27,
+      "imageUrl": "https://m.media-amazon.com/images/I/71dcjLu9SSL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FNMWQMXG/?tag=amazonwp0b-21",
+      "shortDesc": "Le Reboot Découpeur Plasma 40A offre une découpe précise jusqu'à 12 mm sur acier, inox et alu grâce à sa torche PT-40 et un amorçage sans contact.",
+      "categories": [
+        "inverter-230v-atelier",
+        "portables-compacts",
+        "entree-de-gamme-bricolage"
+      ],
+      "words": 2531,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste de découpe plasma complet 40A compact pour atelier et bricolage.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Reboot Découpeur Plasma 40A",
+      "titleReason": "Titre simple, précis et bien calibré."
+    },
+    {
+      "file": "reboot-rbc6000-pro.md",
+      "slug": "reboot-rbc6000-pro",
+      "title": "Reboot RBC6000 PRO (60A)",
+      "titleLength": 24,
+      "imageUrl": "https://m.media-amazon.com/images/I/71dnr2T0M0L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FV38Y52S/?tag=amazonwp0b-21",
+      "shortDesc": "Découpeur plasma Reboot RBC6000 PRO 60A : amorçage sans haute fréquence, coupe jusqu'à 20 mm et compatibilité CNC pour les travaux exigeants.",
+      "categories": [
+        "inverter-230v-atelier",
+        "arc-pilote-sans-hf",
+        "compatibles-table-cnc"
+      ],
+      "words": 1943,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Générateur plasma complet 60A compatible CNC pour atelier exigeant.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Reboot RBC6000 PRO (60A)",
+      "titleReason": "Titre sobre mettant en avant la marque, le modèle et la puissance."
+    },
+    {
+      "file": "reboot-rbc6000l-pro.md",
+      "slug": "reboot-rbc6000l-pro",
+      "title": "Reboot RBC6000L PRO (60A)",
+      "titleLength": 25,
+      "imageUrl": "https://m.media-amazon.com/images/I/71D7hgeII6L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0F5VXTBLS/?tag=amazonwp0b-21",
+      "shortDesc": "Test vérifié du découpeur plasma Reboot RBC6000L PRO 60A avec amorçage sans contact. Analyse des capacités, épaisseurs et avis d'experts.",
+      "categories": [
+        "inverter-230v-atelier",
+        "arc-pilote-sans-hf",
+        "compatibles-table-cnc"
+      ],
+      "words": 2303,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Appareil plasma complet 60A avec amorçage sans contact et port CNC.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Reboot RBC6000L PRO (60A)",
+      "titleReason": "Titre direct et efficace avec référence exacte."
+    },
+    {
+      "file": "reboot-rbc6000l.md",
+      "slug": "reboot-rbc6000l",
+      "title": "Reboot RBC6000L (60A)",
+      "titleLength": 21,
+      "imageUrl": "https://m.media-amazon.com/images/I/71MDDRXxOgL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FCFNK4VJ/?tag=amazonwp0b-21",
+      "shortDesc": "Test complet du découpeur plasma Reboot RBC6000L (60A). Analyse de l'arc pilote, capacités réelles sur acier et inox, et retour terrain détaillé.",
+      "categories": [
+        "inverter-230v-atelier",
+        "arc-pilote-sans-hf"
+      ],
+      "words": 2299,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Découpeur plasma complet 60A avec arc pilote pour atelier.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Reboot RBC6000L (60A)",
+      "titleReason": "Titre court et lisible sans surcharge."
+    },
+    {
+      "file": "scheppach-plc40.md",
+      "slug": "scheppach-plc40",
+      "title": "Scheppach PLC40 (40A, 12 mm)",
+      "titleLength": 28,
+      "imageUrl": "https://m.media-amazon.com/images/I/61-RXOt+n5L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B08FJ14HXB/?tag=amazonwp0b-21",
+      "shortDesc": "Découpeur plasma Scheppach PLC40 40A : découpe nette jusqu'à 12 mm sur acier, inox et alu. Compact, léger et intuitif pour tous les ateliers.",
+      "categories": [
+        "entree-de-gamme-bricolage",
+        "portables-compacts",
+        "inverter-230v-atelier"
+      ],
+      "words": 2160,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste plasma portatif complet de 40A pour découpe d'acier et alu.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Scheppach PLC40 (40A, 12 mm)",
+      "titleReason": "Titre d'origine synthétique avec caractéristiques clés."
+    },
+    {
+      "file": "skandi-kraft-itech-cut-85-a-cnc-coupe-plasma-400-v-85-a-cnc-avec-allumage-blow-b.md",
+      "slug": "skandi-kraft-itech-cut-85-a-cnc-coupe-plasma-400-v-85-a-cnc-avec-allumage-blow-b",
+      "title": "Skandi Kraft iTech CUT 85A CNC (400V)",
+      "titleLength": 37,
+      "imageUrl": "https://m.media-amazon.com/images/I/8117gOaWOjL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GVS64FJY/?tag=amazonwp0b-21",
+      "shortDesc": "Test vérifié du Skandi KRAFT iTECH CUT 85 A CNC : générateur plasma 400 V triphasé, amorçage blow-back sans HF et coupe séparatrice jusqu'à 42 mm.",
+      "categories": [
+        "forte-epaisseur-triphases-400v"
+      ],
+      "words": 2873,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Générateur plasma triphasé complet 85A pour forte épaisseur et table CNC.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Skandi Kraft iTech CUT 85A CNC (400V)",
+      "titleReason": "Suppression du bourrage de mots-clés et du nom de boutique externe."
+    },
+    {
+      "file": "spartus-xpro-cut-110cnc-coupe-plasma-400-v-avec-allumage-pilote-100-a-sans-hf-cn.md",
+      "slug": "spartus-xpro-cut-110cnc-coupe-plasma-400-v-avec-allumage-pilote-100-a-sans-hf-cn",
+      "title": "Spartus XPro CUT 110 CNC (100A, 400V)",
+      "titleLength": 37,
+      "imageUrl": "https://m.media-amazon.com/images/I/61YSXz2GUFL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0H3B9ZMBG/?tag=amazonwp0b-21",
+      "shortDesc": "Test vérifié du découpeur plasma Spartus XPro CUT 110CNC triphasé 400 V 100 A sans HF : capacité de coupe jusqu'à 55 mm et contrôle CNC.",
+      "categories": [
+        "forte-epaisseur-triphases-400v"
+      ],
+      "words": 2278,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine de découpe plasma industrielle triphasée 100A sans HF avec contrôle CNC.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Spartus XPro CUT 110 CNC (100A, 400V)",
+      "titleReason": "Élimination des répétitions de mots-clés et condensation sur les caractéristiques clés."
+    },
+    {
+      "file": "stahlwerk-cut-50-p-digital.md",
+      "slug": "stahlwerk-cut-50-p-digital",
+      "title": "Stahlwerk CUT 50 P Digital (50A)",
+      "titleLength": 32,
+      "imageUrl": "https://m.media-amazon.com/images/I/61E126A599L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GCZWMP1J/?tag=amazonwp0b-21",
+      "shortDesc": "Découvrez notre test vérifié du découpeur plasma Stahlwerk CUT 50 P Digital : un onduleur 50A avec arc pilote, idéal pour découper jusqu'à 14 mm.",
+      "categories": [
+        "inverter-230v-atelier",
+        "arc-pilote-sans-hf",
+        "portables-compacts"
+      ],
+      "words": 1954,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Découpeur plasma inverter complet 50A avec écran numérique et arc pilote.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Stahlwerk CUT 50 P Digital (50A)",
+      "titleReason": "Titre clair, élégant et parfaitement équilibré."
+    },
+    {
+      "file": "stahlwerk-cut-50-p.md",
+      "slug": "stahlwerk-cut-50-p",
+      "title": "Stahlwerk CUT 50 P (45A, 15 mm)",
+      "titleLength": 31,
+      "imageUrl": "https://m.media-amazon.com/images/I/61GHBFIvlEL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GD155BWX/?tag=amazonwp0b-21",
+      "shortDesc": "Découpeur plasma 45A avec amorçage par arc pilote. Capacité de coupe nette jusqu'à 10 mm et séparation à 15 mm. Idéal pour atelier.",
+      "categories": [
+        "arc-pilote-sans-hf",
+        "inverter-230v-atelier"
+      ],
+      "words": 2020,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste plasma complet 45A avec torche à amorçage pilote.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Stahlwerk CUT 50 P (45A, 15 mm)",
+      "titleReason": "Titre concis incluant modèle, ampérage et épaisseur de coupe."
+    },
+    {
+      "file": "stahlwerk-cut-80-p-digital.md",
+      "slug": "stahlwerk-cut-80-p-digital",
+      "title": "Stahlwerk CUT 80 P Digital (80A)",
+      "titleLength": 32,
+      "imageUrl": "https://m.media-amazon.com/images/I/61dF-Rkis8L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0GD196V7D/?tag=amazonwp0b-21",
+      "shortDesc": "Test vérifié du Stahlwerk CUT 80 P Digital (80A) : découpeur plasma triphasé puissant, arc pilote efficace et coupe nette jusqu'à 25 mm.",
+      "categories": [
+        "forte-epaisseur-triphases-400v",
+        "professionnels-haute-capacite",
+        "arc-pilote-sans-hf"
+      ],
+      "words": 2210,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Générateur plasma complet 80A triphasé haute capacité pour professionnels.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Stahlwerk CUT 80 P Digital (80A)",
+      "titleReason": "Titre sobre et informatif sans éléments superflus."
+    },
+    {
+      "file": "stamos-germany-s-plasma-60u-decoupeur-plasma-65-a-facteur-de-marche-60-400-v-amo.md",
+      "slug": "stamos-germany-s-plasma-60u-decoupeur-plasma-65-a-facteur-de-marche-60-400-v-amo",
+      "title": "Stamos Germany S-PLASMA 60U (65A, 400V)",
+      "titleLength": 39,
+      "imageUrl": "https://m.media-amazon.com/images/I/61kDeD4rkTL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0BXXKNMH9/?tag=amazonwp0b-21",
+      "shortDesc": "Découpeur plasma professionnel triphasé 400 V Stamos S-PLASMA 60U de 65 A avec amorçage HF et technologie IGBT pour coupes nettes jusqu'à 22 mm.",
+      "categories": [
+        "forte-epaisseur-triphases-400v"
+      ],
+      "words": 2220,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Découpeur plasma triphasé complet 65A pour ateliers professionnels.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Stamos Germany S-PLASMA 60U (65A, 400V)",
+      "titleReason": "Suppression des répétitions inutiles et nettoyage du titre pour une meilleure lisibilité."
+    },
+    {
+      "file": "stamos-s-plasma-40.md",
+      "slug": "stamos-s-plasma-40",
+      "title": "Stamos S-PLASMA 40 avec compresseur",
+      "titleLength": 35,
+      "imageUrl": "https://m.media-amazon.com/images/I/61jRHfoUmqL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B071YZMS72/?tag=amazonwp0b-21",
+      "shortDesc": "Découpeur plasma 40A monophasé avec compresseur d'air intégré : autonome, mobile et efficace pour la coupe des aciers jusqu'à 10 mm d'épaisseur.",
+      "categories": [
+        "avec-compresseur-integre",
+        "inverter-230v-atelier"
+      ],
+      "words": 2062,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine complète de découpe plasma autonome avec compresseur intégré.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Stamos S-PLASMA 40 avec compresseur",
+      "titleReason": "Titre déjà concis, clair et mettant bien en valeur la caractéristique principale."
+    },
+    {
+      "file": "toolom-50a.md",
+      "slug": "toolom-50a",
+      "title": "Toolom 50A Arc Pilote (20 mm)",
+      "titleLength": 29,
+      "imageUrl": "https://m.media-amazon.com/images/I/71r3WNsBV4L._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0DPMZGJ1J/?tag=amazonwp0b-21",
+      "shortDesc": "Découpeur plasma 50A avec arc pilote sans contact. Coupe propre jusqu'à 14 mm et séparation à 20 mm. Idéal pour atelier et métallerie.",
+      "categories": [
+        "arc-pilote-sans-hf",
+        "inverter-230v-atelier"
+      ],
+      "words": 2061,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste de découpe plasma complet 50A avec amorçage à arc pilote.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Toolom 50A Arc Pilote",
+      "titleReason": "Titre direct et percutant, suppression des parenthèses superflues."
+    },
+    {
+      "file": "vector-welding-decoupeur-plasma-100a-400v-igbt-allumage-hf-sans-contact.md",
+      "slug": "vector-welding-decoupeur-plasma-100a-400v-igbt-allumage-hf-sans-contact",
+      "title": "Vector Welding Plasma 100A 400V IGBT",
+      "titleLength": 36,
+      "imageUrl": "https://m.media-amazon.com/images/I/71CTH7tu-dL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0HJQZR3H3/?tag=amazonwp0b-21",
+      "shortDesc": "Découpeur plasma triphasé 400V de 100A avec technologie IGBT et amorçage HF sans contact. Capacité de coupe jusqu'à 30 mm pour ateliers exigeants.",
+      "categories": [
+        "forte-epaisseur-triphases-400v"
+      ],
+      "words": 3082,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine de découpe plasma triphasée 100A complète pour forte épaisseur.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Vector Welding Plasma 100A 400V IGBT",
+      "titleReason": "Raccourcissement significatif et élimination du bourrage de mots-clés."
+    },
+    {
+      "file": "vevor-combine-cut-50-tig-mma.md",
+      "slug": "vevor-combine-cut-50-tig-mma",
+      "title": "Vevor Combiné 3-en-1 CUT 50 / TIG / MMA",
+      "titleLength": 39,
+      "imageUrl": "https://m.media-amazon.com/images/I/71VQ4YKNzqL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0G1WJ2NJG/?tag=amazonwp0b-21",
+      "shortDesc": "Poste combiné 3-en-1 avec découpeur plasma 50 A et soudage TIG MMA 200 A. Idéal pour les réparations d'atelier et la serrurerie.",
+      "categories": [
+        "multifonctions-3-en-1",
+        "inverter-230v-atelier"
+      ],
+      "words": 2418,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste combiné multifonction complet intégrant la découpe plasma et le soudage.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "Vevor Combiné 3-en-1 CUT 50 / TIG / MMA",
+      "titleReason": "Titre concis qui résume parfaitement la polyvalence de l'équipement."
+    },
+    {
+      "file": "vevor-decoupeur-plasma-60-a-machine-de-decoupe-plasma-triphasee-400-v.md",
+      "slug": "vevor-decoupeur-plasma-60-a-machine-de-decoupe-plasma-triphasee-400-v",
+      "title": "VEVOR Découpeur Plasma 60A Triphasé 400V",
+      "titleLength": 40,
+      "imageUrl": "https://m.media-amazon.com/images/I/71PcHwRU8XL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FRTK31FM/?tag=amazonwp0b-21",
+      "shortDesc": "Découvrez notre avis vérifié sur le découpeur plasma VEVOR 60 A triphasé 400 V : découpe nette, onduleur IGBT et robustesse industrielle.",
+      "categories": [
+        "forte-epaisseur-triphases-400v"
+      ],
+      "words": 2307,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste de découpe plasma complet triphasé 400V pour usage intensif.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "VEVOR Découpeur Plasma 60A Triphasé 400V",
+      "titleReason": "Suppression des répétitions de termes et harmonisation du format."
+    },
+    {
+      "file": "vevor-plasma-65a.md",
+      "slug": "vevor-plasma-65a",
+      "title": "VEVOR Découpeur Plasma 65A",
+      "titleLength": 26,
+      "imageUrl": "https://m.media-amazon.com/images/I/71Su1UjNkGL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FNKHNHBV/?tag=amazonwp0b-21",
+      "shortDesc": "Découvrez notre test vérifié du découpeur plasma VEVOR 65A : technologie sans contact, 2T/4T, découpe nette jusqu'à 16 mm et avis d'expert complet.",
+      "categories": [
+        "inverter-230v-atelier",
+        "arc-pilote-sans-hf"
+      ],
+      "words": 2112,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Machine complète de découpe plasma inverter pour atelier.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "VEVOR Découpeur Plasma 65A",
+      "titleReason": "Titre sobre, percutant et conforme aux standards du site."
+    },
+    {
+      "file": "yeswelder-plasma-55a.md",
+      "slug": "yeswelder-plasma-55a",
+      "title": "YesWelder Découpeur Plasma 55A",
+      "titleLength": 30,
+      "imageUrl": "https://m.media-amazon.com/images/I/710BITlzKYL._AC_UL960_FMwebp_QL65_.jpg",
+      "affiliateUrl": "https://www.amazon.fr/dp/B0FY2LFSXQ/?tag=amazonwp0b-21",
+      "shortDesc": "Découvrez notre test vérifié du découpeur plasma YesWelder 55A : un appareil 4 en 1 sans haute fréquence puissant, polyvalent et précis.",
+      "categories": [
+        "multifonctions-3-en-1",
+        "arc-pilote-sans-hf",
+        "inverter-230v-atelier"
+      ],
+      "words": 2069,
+      "isRelevant": true,
+      "verdict": "CONFORME",
+      "reason": "Poste complet de découpe plasma polyvalent sans haute fréquence.",
+      "isTitleTooLong": false,
+      "suggestedTitle": "YesWelder Découpeur Plasma 55A",
+      "titleReason": "Titre net, équilibré et sans surcharge textuelle."
+    }
+  ]
+}

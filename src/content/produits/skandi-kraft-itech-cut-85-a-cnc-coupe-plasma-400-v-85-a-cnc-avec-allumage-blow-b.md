@@ -1,12 +1,12 @@
 ---
-titre: "Skandi KRAFT iTECH CUT 85 A CNC Coupe-plasma 400 V 85 A CNC avec allumage Blow Back & Synergic Poste de soudage plasma industriel Épaisseur de coupe 42 mm Bestschweissen.de"
-titre_h1: "Avis Skandi KRAFT iTECH CUT 85 A CNC Coupe-plasma 400 V 85 A CNC avec allumage Blow Back & Synergic Poste de soudage plasma industriel Épaisseur de coupe 42 mm Bestschweissen.de"
+titre: "Skandi Kraft iTech CUT 85A CNC (400V)"
+titre_h1: "Avis Skandi Kraft iTech CUT 85A CNC (400V)"
 description_courte: "Test vérifié du Skandi KRAFT iTECH CUT 85 A CNC : générateur plasma 400 V triphasé, amorçage blow-back sans HF et coupe séparatrice jusqu'à 42 mm."
 description_longue: "Analyse technique détaillée et test vérifié du découpeur plasma industriel Skandi KRAFT iTECH CUT 85 A CNC. Découvrez ses capacités sur fortes épaisseurs, son interface synergique et sa compatibilité avec les tables de découpe automatisées."
 categories: ["forte-epaisseur-triphases-400v"]
 image_url: "https://m.media-amazon.com/images/I/8117gOaWOjL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0GVS64FJY/?tag=amazonwp0b-21"
-meta_title: "Avis Skandi KRAFT iTECH CUT 85 A CNC Coupe-plasma 400 V 85 A CNC avec allumage Blow Back & Synergic Poste de soudage plasma industriel Épaisseur de coupe 42 mm Bestschweissen.de"
+meta_title: "Avis Skandi Kraft iTech CUT 85A CNC (400V)"
 meta_description: "Test vérifié et avis d'expert sur le découpeur plasma Skandi KRAFT iTECH CUT 85 A CNC : capacités réelles, amorçage blow-back et verdict complet."
 avis_clients:
   - auteur: "Alexandre M."

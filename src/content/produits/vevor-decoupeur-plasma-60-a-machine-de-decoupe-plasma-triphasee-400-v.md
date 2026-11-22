@@ -1,12 +1,12 @@
 ---
-titre: "VEVOR Découpeur Plasma, 60 A, Machine de Découpe Plasma Triphasée 400 V"
-titre_h1: "Avis VEVOR Découpeur Plasma, 60 A, Machine de Découpe Plasma Triphasée 400 V"
+titre: "VEVOR Découpeur Plasma 60A Triphasé 400V"
+titre_h1: "Avis VEVOR Découpeur Plasma 60A Triphasé 400V"
 description_courte: "Découvrez notre avis vérifié sur le découpeur plasma VEVOR 60 A triphasé 400 V : découpe nette, onduleur IGBT et robustesse industrielle."
 description_longue: "Analyse technique et détaillée du découpeur plasma VEVOR 60 A alimenté en 400 V triphasé. Équipé d'un onduleur IGBT haute fréquence, de modes 2T et 4T ainsi que de temporisations de pré et post-gaz réglables, cet équipement vise les ateliers de métallerie et les chantiers exigeants."
 categories: ["forte-epaisseur-triphases-400v"]
 image_url: "https://m.media-amazon.com/images/I/71PcHwRU8XL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0FRTK31FM/?tag=amazonwp0b-21"
-meta_title: "Avis VEVOR Découpeur Plasma, 60 A, Machine de Découpe Plasma Triphasée 400 V"
+meta_title: "Avis VEVOR Découpeur Plasma 60A Triphasé 400V"
 meta_description: "Avis d'expert et test vérifié sur le VEVOR Découpeur Plasma 60 A 400 V. Analyse technique, capacités de coupe réelles et verdict d'atelier."
 avis_clients:
   - auteur: "Alexandre M."

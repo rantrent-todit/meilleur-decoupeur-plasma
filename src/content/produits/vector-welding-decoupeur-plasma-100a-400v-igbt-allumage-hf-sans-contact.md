@@ -1,12 +1,12 @@
 ---
-titre: "VECTOR WELDING Découpeur Plasma 100A 400V IGBT Allumage HF sans Contact"
-titre_h1: "Avis VECTOR WELDING Découpeur Plasma 100A 400V IGBT Allumage HF sans Contact"
+titre: "Vector Welding Plasma 100A 400V IGBT"
+titre_h1: "Avis Vector Welding Plasma 100A 400V IGBT"
 description_courte: "Découpeur plasma triphasé 400V de 100A avec technologie IGBT et amorçage HF sans contact. Capacité de coupe jusqu'à 30 mm pour ateliers exigeants."
 description_longue: "Analyse technique approfondie du découpeur plasma VECTOR WELDING 100A 400V. Doté d'une régulation par onduleur IGBT et d'un allumage haute fréquence sans contact, ce générateur industriel offre une réserve de puissance calibrée pour la découpe de métaux conducteurs jusqu'à 30 mm d'épaisseur."
 categories: ["forte-epaisseur-triphases-400v"]
 image_url: "https://m.media-amazon.com/images/I/71CTH7tu-dL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0HJQZR3H3/?tag=amazonwp0b-21"
-meta_title: "Avis VECTOR WELDING Découpeur Plasma 100A 400V IGBT Allumage HF sans Contact"
+meta_title: "Avis Vector Welding Plasma 100A 400V IGBT"
 meta_description: "Test complet et avis vérifié sur le découpeur plasma VECTOR WELDING 100A 400V IGBT. Performances réelles de coupe, points forts et analyse d'expert."
 avis_clients:
   - auteur: "Alexandre M."

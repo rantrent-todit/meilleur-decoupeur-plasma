@@ -1,12 +1,12 @@
 ---
-titre: "Lotos LTP7000 Coupe-plasma à air IGBT 70 A, coupe nette 2,2 cm"
-titre_h1: "Avis Lotos LTP7000 Coupe-plasma à air IGBT 70 A, coupe nette 2,2 cm"
+titre: "Lotos LTP7000 Découpeur Plasma 70A"
+titre_h1: "Avis Lotos LTP7000 Découpeur Plasma 70A"
 description_courte: "Découpeur plasma Lotos LTP7000 de 70 A avec technologie IGBT. Analyse technique, test vérifié de coupe jusqu'à 22 mm et retour d'expérience."
 description_longue: "Découvrez notre test vérifié complet du découpeur plasma Lotos LTP7000. Doté d'une puissance de 70 A et d'un amorçage par arc pilote, ce modèle vise les opérations de métallerie lourde et de chaudronnerie avec une coupe propre jusqu'à 2,2 cm."
 categories: ["professionnels-haute-capacite"]
 image_url: "https://m.media-amazon.com/images/I/71-omUqHtsS._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B081J67B32/?tag=amazonwp0b-21"
-meta_title: "Avis Lotos LTP7000 Coupe-plasma à air IGBT 70 A, coupe nette 2,2 cm"
+meta_title: "Avis Lotos LTP7000 Découpeur Plasma 70A"
 meta_description: "Avis complet et test vérifié sur Lotos LTP7000 Coupe-plasma à air IGBT 70 A, coupe nette 2,2 cm. Performances réelles, points forts et notre verdict."
 avis_clients:
   - auteur: "Alexandre M."

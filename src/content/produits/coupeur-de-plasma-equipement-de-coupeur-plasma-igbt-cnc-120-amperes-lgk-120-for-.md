@@ -1,12 +1,12 @@
 ---
-titre: "Coupeur de Plasma, Équipement de coupeur Plasma IGBT CNC 120 ampères, LGK-120 for Machine découpe avec droite, coupe-tuyau torche"
-titre_h1: "Avis Coupeur de Plasma, Équipement de coupeur Plasma IGBT CNC 120 ampères, LGK-120 for Machine découpe avec droite, coupe-tuyau torche"
+titre: "LGK-120 Découpeur Plasma CNC 120A"
+titre_h1: "Avis LGK-120 Découpeur Plasma CNC 120A"
 description_courte: "Test vérifié du découpeur plasma LGK-120 120 ampères pour table CNC et torche droite. Évaluation technique, puissance et qualité de coupe."
 description_longue: "Analyse technique et détaillée du poste de découpe plasma industriel LGK-120 de 120 ampères. Conçu pour l'intégration sur table CNC et la découpe motorisée de tubes grâce à sa torche droite, ce générateur IGBT triphasé offre des capacités de coupe soutenues sur aciers épais, aluminium et inox."
 categories: ["professionnels-haute-capacite"]
 image_url: "https://m.media-amazon.com/images/I/719QdfXMt8L._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0HR4JGK7R/?tag=amazonwp0b-21"
-meta_title: "Avis Coupeur de Plasma, Équipement de coupeur Plasma IGBT CNC 120 ampères, LGK-120 for Machine découpe avec droite, coupe-tuyau torche"
+meta_title: "Avis LGK-120 Découpeur Plasma CNC 120A"
 meta_description: "Avis et test vérifié sur le coupeur plasma LGK-120 120A CNC. Analyse des performances, découpe industrielle et verdict complet de nos experts."
 avis_clients:
   - auteur: "Alexandre M."

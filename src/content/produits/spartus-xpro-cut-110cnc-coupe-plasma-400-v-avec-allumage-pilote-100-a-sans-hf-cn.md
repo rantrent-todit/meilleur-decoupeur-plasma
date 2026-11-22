@@ -1,12 +1,12 @@
 ---
-titre: "Spartus XPro CUT 110CNC Coupe-plasma 400 V avec allumage pilote 100 A sans HF, CNC Plasma Cutter max. 55 mm Épaisseur de coupe Bestschweissen.de"
-titre_h1: "Avis Spartus XPro CUT 110CNC Coupe-plasma 400 V avec allumage pilote 100 A sans HF, CNC Plasma Cutter max. 55 mm Épaisseur de coupe Bestschweissen.de"
+titre: "Spartus XPro CUT 110 CNC (100A, 400V)"
+titre_h1: "Avis Spartus XPro CUT 110 CNC (100A, 400V)"
 description_courte: "Test vérifié du découpeur plasma Spartus XPro CUT 110CNC triphasé 400 V 100 A sans HF : capacité de coupe jusqu'à 55 mm et contrôle CNC."
 description_longue: "Analyse technique et détaillée du découpeur plasma triphasé Spartus XPro CUT 110CNC. Conçu pour les fortes épaisseurs et les tables de découpe automatisées, ce poste de 100 A sans haute fréquence assure des coupes précises jusqu'à 55 mm sans perturber l'électronique de commande."
 categories: ["forte-epaisseur-triphases-400v"]
 image_url: "https://m.media-amazon.com/images/I/61YSXz2GUFL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0H3B9ZMBG/?tag=amazonwp0b-21"
-meta_title: "Avis Spartus XPro CUT 110CNC Coupe-plasma 400 V avec allumage pilote 100 A sans HF, CNC Plasma Cutter max. 55 mm Épaisseur de coupe Bestschweissen.de"
+meta_title: "Avis Spartus XPro CUT 110 CNC (100A, 400V)"
 meta_description: "Découvrez notre test vérifié du Spartus XPro CUT 110CNC : découpeur plasma 400 V de 100 A sans HF, coupe jusqu'à 55 mm et intégration CNC."
 avis_clients:
   - auteur: "Alexandre M."

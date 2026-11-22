@@ -1,12 +1,12 @@
 ---
-titre: "ANDELI Plasma 55A compresseur intégré 230V IGBT 2T/4T LED coupe 20mm."
-titre_h1: "Avis ANDELI Plasma 55A compresseur intégré 230V IGBT 2T/4T LED coupe 20mm."
+titre: "ANDELI Plasma 55A Compresseur Intégré"
+titre_h1: "Avis ANDELI Plasma 55A Compresseur Intégré"
 description_courte: "Découpeur plasma ANDELI 55A autonome avec compresseur intégré et arc pilote sans contact. Coupe nette jusqu'à 20 mm sur tous métaux conducteurs."
 description_longue: "Analyse technique détaillée du découpeur plasma ANDELI 55A équipé d'un compresseur interne, d'un onduleur IGBT haute fréquence et d'une torche à arc pilote sans contact. Livré avec masque et gants de protection."
 categories: ["professionnels-haute-capacite"]
 image_url: "https://m.media-amazon.com/images/I/81IxaR+LHLL._AC_UL960_FMwebp_QL65_.jpg"
 lien_affiliation: "https://www.amazon.fr/dp/B0H82X9GVN/?tag=amazonwp0b-21"
-meta_title: "Avis ANDELI Plasma 55A compresseur intégré 230V IGBT 2T/4T LED coupe 20mm."
+meta_title: "Avis ANDELI Plasma 55A Compresseur Intégré"
 meta_description: "Test vérifié et avis d'expert sur l'ANDELI Plasma 55A à compresseur intégré 230V. Capacités de coupe, technologie non-HF et notre verdict complet."
 avis_clients:
   - auteur: "Alexandre M."
