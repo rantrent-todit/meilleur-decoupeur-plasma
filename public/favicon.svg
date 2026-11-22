@@ -2,15 +2,15 @@
   <defs>
     <!-- Dégradé principal de fond diagonal -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f233a" />
-      <stop offset="60%" stop-color="#000000" />
+      <stop offset="0%" stop-color="#0891b2" />
+      <stop offset="60%" stop-color="#005172" />
       <stop offset="100%" stop-color="#090d16" />
     </linearGradient>
 
     <!-- Lueur subtile accent au sommet -->
     <radialGradient id="topGlow" cx="25%" cy="15%" r="70%">
-      <stop offset="0%" stop-color="#f97316" stop-opacity="0.55" />
-      <stop offset="50%" stop-color="#0f233a" stop-opacity="0.1" />
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.55" />
+      <stop offset="50%" stop-color="#0891b2" stop-opacity="0.1" />
       <stop offset="100%" stop-color="#000000" stop-opacity="0" />
     </radialGradient>
 
@@ -64,13 +64,25 @@
   <!-- Éléments vectoriels de la thématique -->
   <g filter="url(#softShadow)">
     
-    <g transform="translate(128, 128) scale(1.15) translate(-128, -128)">
-      <!-- Écusson de confiance -->
-      <path d="M128 36 L196 64 C196 142 162 192 128 214 C94 192 60 142 60 64 Z" fill="rgba(255,255,255,0.16)" stroke="#ffffff" stroke-width="12" stroke-linejoin="round" />
-      <!-- Coche de vérification d'expert -->
-      <path d="M96 122 L118 144 L162 98" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" />
-      <!-- Étoile d'or au sommet -->
-      <polygon points="128,52 133,65 147,65 136,73 140,86 128,78 116,86 120,73 109,65 123,65" fill="#fbbf24" stroke="none" />
+    <g transform="translate(128, 128) scale(1.12) translate(-128, -128)">
+      <!-- Torche de découpe plasma inclinée -->
+      <path d="M60 48 L108 96 L94 110 L46 62 Z" fill="rgba(255,255,255,0.25)" stroke="#ffffff" stroke-width="8" stroke-linejoin="round" />
+      <!-- Câble haute pression et gâchette -->
+      <path d="M46 62 Q30 80 40 108" fill="none" stroke="#38bdf8" stroke-width="8" stroke-linecap="round" />
+      <rect x="80" y="86" width="10" height="18" rx="3" transform="rotate(45 85 95)" fill="#ef4444" />
+      <!-- Buse en cuivre haute précision -->
+      <polygon points="108,96 132,120 120,132 94,110" fill="#fbbf24" stroke="#ffffff" stroke-width="6" />
+      <polygon points="126,126 142,142 136,148 120,132" fill="#ffffff" />
+      <!-- Faisceau jet de plasma ionisé ultra-chaud -->
+      <path d="M140 146 L174 180" stroke="#06b6d4" stroke-width="12" stroke-linecap="round" />
+      <path d="M140 146 L168 174" stroke="#ffffff" stroke-width="6" stroke-linecap="round" />
+      <!-- Éclairs ioniques et étincelles de découpe -->
+      <polygon points="174,180 188,168 184,182 202,176 186,192 196,198 178,202" fill="#fbbf24" />
+      <circle cx="160" cy="196" r="4" fill="#38bdf8" />
+      <circle cx="198" cy="158" r="3" fill="#ffffff" />
+      <!-- Plaque métallique en cours de coupe nette -->
+      <line x1="120" y1="210" x2="216" y2="210" stroke="#ffffff" stroke-width="10" stroke-linecap="round" />
+      <line x1="174" y1="210" x2="174" y2="228" stroke="#06b6d4" stroke-width="8" stroke-linecap="round" />
     </g>
   
   </g>

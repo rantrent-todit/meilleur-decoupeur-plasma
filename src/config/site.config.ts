@@ -15,9 +15,9 @@ export interface SiteConfig {
     disclaimer: string;
   };
   theme: {
-    primaryColor: string;
-    primaryHoverColor: string;
-    accentColor: string;
+    primaryColor: "#0891b2",
+    primaryHoverColor: "#0e7490",
+    accentColor: "#06b6d4"
   };
 }
 
